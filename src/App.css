@@ -213,7 +213,8 @@ a {
 /* ABOUT */
 
 .about {
-  background-image: url("/public/about_bg.png");
+  background-image: url("/about_bg.png");
+
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

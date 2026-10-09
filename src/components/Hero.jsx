@@ -49,7 +49,7 @@ function Hero() {
       <div className="hero-image">
         <div className="image-circle"></div>
 
-        <img src="/public/profile_pic.jpeg" alt="Debaprasad Gouda" />
+        <img src="/profile_pic.jpeg" alt="Debaprasad Gouda" />
       </div>
     </section>
   );

@@ -3,7 +3,7 @@ function Projects() {
   const projects = [
     {
       title: "Student Management System",
-      image: "/public/student-app.png",
+      image: "/student-app.png",
       description:
         "A React-based student management system with dashboard, student records and CRUD functionality.",
       technologies: ["React", "JavaScript", "Bootstrap"],
@@ -13,7 +13,7 @@ function Projects() {
 
     {
       title: "Weather App",
-      image: "/public/weather-app.png",
+      image: "/weather-app.png",
       description:
         "A weather application that displays current weather, forecasts and other weather information using an API.",
       technologies: ["React", "Axios", "OpenWeather API"],
