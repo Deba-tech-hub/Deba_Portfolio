@@ -22,7 +22,11 @@ function Hero() {
             View My Projects
           </a>
 
-          <a href="/resume.pdf" className="secondary-btn" target="_blank">
+          <a href="/Debaprasad_Gouda_Resume_05-10-2026.pdf" 
+          className="secondary-btn" 
+          target="_blank"
+          rel="noreferrer"
+          download="Debaprasad_Gouda_Resume_05-10-2026.pdf">
             Download Resume
           </a>
         </div>
