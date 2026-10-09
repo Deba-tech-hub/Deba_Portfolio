@@ -14,7 +14,7 @@ function Navbar() {
       </div>
 
       <a
-        href="/public/Debaprasad_Gouda_Resume_05-10-2026.pdf"
+        href="/Debaprasad_Gouda_Resume_05-10-2026.pdf"
         className="resume-btn"
         target="_blank"
         rel="noreferrer"
