@@ -8,7 +8,7 @@ function Projects() {
         "A React-based student management system with dashboard, student records and CRUD functionality.",
       technologies: ["React", "JavaScript", "Bootstrap"],
       demo: "https://student-management-system-nblf.vercel.app/",
-      github: "https://github.com/debaprasad-dev/student-management-system"
+      github: "https://github.com/Deba-tech-hub/Student_Management_System"
     },
 
     {
@@ -18,7 +18,7 @@ function Projects() {
         "A weather application that displays current weather, forecasts and other weather information using an API.",
       technologies: ["React", "Axios", "OpenWeather API"],
       demo: "https://react-weather-app-eta-topaz.vercel.app/",
-      github: "https://github.com/debaprasad-dev/react-weather-app"
+      github: "https://github.com/deba-tech-hub/react-weather-app"
     }
 
     
