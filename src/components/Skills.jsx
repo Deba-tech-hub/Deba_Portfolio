@@ -23,7 +23,7 @@ function Skills() {
     <section id="skills" className="section">
 
       <div className="section-heading">
-        <p>MY SKILLS</p>
+        
         <h2>Technologies I Work With</h2>
       </div>
 

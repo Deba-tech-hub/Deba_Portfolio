@@ -28,8 +28,8 @@ function Projects() {
     <section id="projects" className="section projects">
 
       <div className="section-heading">
-        <p>MY WORK</p>
-        <h2>Featured Projects</h2>
+        
+        <h2>My Projects</h2>
       </div>
 
       <div className="projects-grid">
